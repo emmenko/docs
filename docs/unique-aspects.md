@@ -21,7 +21,7 @@ The replay icon indicates the function has been executed already. Pressing it ex
 
 ![assets/unique/replaybutton.png](assets/unique/replaybutton.png)
 
-You can also replay an entire handler for the selected trace (including all functions within the handler). In this case the replay button in the upper right would replay both `DB::generateKey` and `DB::set`:
+Replay an entire handler for the selected trace (including all functions within the handler) in the upper right. This would replay `DB::generateKey` and `DB::set`.
 
 ![assets/unique/replayhandler.png](assets/unique/replayhandler.png)
 
