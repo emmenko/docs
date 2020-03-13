@@ -4,8 +4,6 @@ title: Unique Aspects
 sidebar_label: Unique Aspects
 ---
 
-## Overview
-
 Dark being connected to the editor and infrastructure allows for unique language functionality.
 
 ## Play & Replay Buttons
